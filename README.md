@@ -65,7 +65,7 @@ Sistema interativo para edição e análise de imagens desenvolvido para a disci
 ### 1. Clone o Repositório
 ```bash
 git clone https://github.com/FelipeRodrigues662/ImageEditor_PDI
-cd PDI
+cd ImageEditor_PDI
 ```
 
 ### 2. Criação do Ambiente Conda
