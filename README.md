@@ -2,7 +2,7 @@
 
 ## Descrição
 Sistema interativo para edição e análise de imagens desenvolvido para a disciplina SIN 392 - Introdução ao Processamento Digital de Imagens da Universidade Federal de Viçosa Campus Rio Paranaíba.
-## YouYube
+## YouTube
 https://youtu.be/gg7dsQB-T-4
 ## Funcionalidades Implementadas
 
