@@ -64,7 +64,7 @@ Sistema interativo para edição e análise de imagens desenvolvido para a disci
 
 ### 1. Clone o Repositório
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/FelipeRodrigues662/ImageEditor_PDI
 cd PDI
 ```
 
