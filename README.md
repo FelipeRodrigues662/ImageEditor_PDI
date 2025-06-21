@@ -111,14 +111,11 @@ PDI/
 ├── requirements.txt        # Dependências
 ├── README.md              # Este arquivo
 ├── src/
-│   ├── __init__.py
 │   ├── gui/
-│   │   ├── __init__.py
 │   │   ├── main_window.py
 │   │   ├── image_viewer.py
 │   │   └── controls.py
 │   ├── processing/
-│   │   ├── __init__.py
 │   │   ├── histogram.py
 │   │   ├── intensity.py
 │   │   ├── filters.py
@@ -126,12 +123,8 @@ PDI/
 │   │   ├── morphology.py
 │   │   └── segmentation.py
 │   └── utils/
-│       ├── __init__.py
 │       ├── image_utils.py
 │       └── history.py
-├── assets/
-│   └── icons/             # Ícones da interface
-└── examples/              # Imagens de exemplo
 ```
 
 ## Desenvolvedor
